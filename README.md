@@ -1,2 +1,3 @@
-# pretext-course-template
-A template from which to create a collection of course materials using PreTeXt
+# A PreTeXt Course Materials Template
+
+Visit <https://pretextbook.org/documentation.html> to learn more.
