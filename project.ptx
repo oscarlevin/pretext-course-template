@@ -25,6 +25,13 @@
       <publication>publication/publication.ptx</publication>
       <output-dir>output/print-latex</output-dir>
     </target>
+    <target name="print-latex-extra">
+      <format>latex</format>
+      <source>source/main.ptx</source>
+      <publication>publication/publication.ptx</publication>
+      <output-dir>output/print-latex</output-dir>
+      <xsl>xsl/print-latex-extra.xsl</xsl>
+    </target>
     <target name="subset">
       <format>html</format>
       <source>source/main.ptx</source>
