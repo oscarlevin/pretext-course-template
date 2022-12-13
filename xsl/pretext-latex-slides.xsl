@@ -35,7 +35,7 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
 >
 
 <!-- Build off of standard latex xsl: -->
-<xsl:import href="./mathbook-latex.xsl" />
+<xsl:import href="./custom-latex.xsl" />
 
 <!-- Intend output for rendering by pdflatex -->
 <xsl:output method="text" />
